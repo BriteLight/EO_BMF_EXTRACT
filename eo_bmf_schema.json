@@ -1,0 +1,198 @@
+[
+  {
+    "name": "EIN",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "NAME",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ICO",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "STREET",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "CITY",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "STATE",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ZIP",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "GROUP",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "SUBSECTION",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "AFFILIATION",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "CLASSIFICATION",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "RULING",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "DEDUCTIBILITY",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "FOUNDATION",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ACTIVITY",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ORGANIZATION",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "STATUS",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "TAX_PERIOD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ASSET_CD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "INCOME_CD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "FILING_REQ_CD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "PF_FILING_REQ_CD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ACCT_PD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "ASSET_AMT",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "INCOME_AMT",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "REVENUE_AMT",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "NTEE_CD",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  },
+  {
+    "name": "SORT_NAME",
+    "mode": "NULLABLE",
+    "type": "STRING",
+    "description": null,
+    "fields": []
+  }
+]
